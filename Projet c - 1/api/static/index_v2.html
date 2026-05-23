@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>B.pc — Comparateur de prix PC en ligne</title>
+  <link rel="stylesheet" href="/static/style_v2.css" />
+</head>
+<body>
+
+  <!-- ═══ TOPBAR ═══ -->
+  <header class="topbar">
+    <div class="brand">
+      <span class="brand-name"><span class="brand-letter">B</span><span class="brand-dot">.</span>pc</span>
+      <span class="brand-divider"></span>
+      <span class="brand-sub">Comparateur de prix · composants PC</span>
+    </div>
+    <div class="nav-right">
+      <a class="nav-link" href="#process">Méthode</a>
+      <a class="nav-link" href="#process">À propos</a>
+      <a class="nav-link" href="#process">FAQ</a>
+      <span class="nav-tag">PROJET INFORMATIQUE</span>
+    </div>
+  </header>
+
+  <!-- ═══ MASTHEAD BAND ═══ -->
+  <div class="masthead">
+    <span></span>
+    <span class="masthead-center"></span>
+    <span></span>
+  </div>
+
+  <!-- ═══ HERO ═══ -->
+  <section id="hero-section" class="hero">
+    <div class="hero-inner">
+
+      <div class="hero-eyebrow rise"></div>
+
+      <h1 class="hero-title rise delay-1" style="font-family: Arial">Votre PC en ligne
+est-il vraiment <span style="color: #c2410c">rentable</span>&nbsp;?</h1>
+
+      <div class="hero-lede rise delay-2">
+        <p class="hero-sub">
+          Collez le lien d'un PC vendu en ligne. Notre moteur extrait chaque composant,
+          interroge une base de prix indépendante, et chiffre <em>en euro</em>
+          l'écart entre le tarif demandé et le coût réel des pièces.
+        </p>
+        <aside class="hero-byline">
+          <div class="byline-label"></div>
+          <div class="byline-text">
+            Une méthode indépendante, sans partenariat marchand ni commission d'affiliation.
+            Mise à jour des prix en temps réel.
+          </div>
+        </aside>
+      </div>
+
+      <!-- Form -->
+      <form id="form" class="search-form rise delay-3" novalidate>
+        <div class="search-form-inner">
+          <div class="input-group" id="url-row">
+            <div class="input-label">① URL du produit</div>
+            <div class="input-field-wrap">
+              <input
+                id="url-input"
+                type="url"
+                autocomplete="off"
+                spellcheck="false"
+                placeholder="https://www.ldlc.com/fiche/PB00XXXXXX.html"
+              />
+              <div class="input-feedback" id="url-icon"></div>
+            </div>
+            <div class="input-hint" id="url-helper">
+              <span id="helper-text">Entrez l'URL d'une fiche produit LDLC pour démarrer l'analyse</span>
+            </div>
+          </div>
+          <button type="submit" id="submit-btn" disabled>
+            Lancer l'analyse
+            <span class="btn-arrow">→</span>
+          </button>
+        </div>
+      </form>
+
+      <p id="error-msg" class="error-msg hidden"></p>
+
+      <!-- Voir un exemple (demo direct) -->
+      <div class="demo-link-wrap">
+        <button type="button" class="demo-link" onclick="showDemo()">
+          Voir un exemple de résultat <span class="btn-arrow">→</span>
+        </button>
+      </div>
+
+      <!-- Stats bar -->
+      <div class="stats-bar rise delay-4">
+        <div class="stat-item">
+          <span class="stat-num serif">8</span>
+          <span class="stat-label">composants analysés</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-num serif">3</span>
+          <span class="stat-label">moteurs de prix indépendants</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-num serif">IA</span>
+          <span class="stat-label">enrichissement Llama 3.3</span>
+        </div>
+        <div class="stat-item">
+          <span class="stat-num serif">0€</span>
+          <span class="stat-label">gratuit · sans compte</span>
+        </div>
+      </div>
+
+      <!-- Process -->
+      <div id="process" class="process-section rise delay-4">
+        <div class="process-head">
+          <div class="section-eyebrow"></div>
+          <h2 class="process-title serif">Trois étapes, <em>une réponse chiffrée</em>.</h2>
+        </div>
+        <div class="process-grid">
+          <div class="process-step">
+            <div class="ps-num serif">01</div>
+            <div class="ps-title">Extraction</div>
+            <div class="ps-desc">Scraping de la fiche produit — composants, prix et configuration détaillée.</div>
+          </div>
+          <div class="process-step">
+            <div class="ps-num serif">02</div>
+            <div class="ps-title">Enrichissement</div>
+            <div class="ps-desc">Identification IA des références manquantes et vérification de compatibilité.</div>
+          </div>
+          <div class="process-step">
+            <div class="ps-num serif">03</div>
+            <div class="ps-title">Verdict</div>
+            <div class="ps-desc">Comparaison du prix prémonté contre le coût réel des pièces. À l'euro près.</div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ═══ LOADING ═══ -->
+  <section id="loading" class="loading-section hidden">
+    <div class="loading-inner">
+
+      <div class="cat-stage" aria-label="analyse en cours">
+        <div class="cat-shadow"></div>
+        <div class="cat-body">
+          <svg width="160" height="180" viewBox="0 0 180 200">
+            <g class="cat-tail">
+              <path d="M138 138 q 28 -6 30 -38 q 1 -16 -8 -22"
+                    fill="none" stroke="#c2410c" stroke-width="12" stroke-linecap="round"/>
+            </g>
+            <ellipse cx="90" cy="125" rx="48" ry="55" fill="#1a1a1a"/>
+            <g class="cat-arm-l"><rect x="40" y="108" width="22" height="12" rx="6" fill="#1a1a1a"/></g>
+            <g class="cat-arm-r"><rect x="118" y="108" width="22" height="12" rx="6" fill="#1a1a1a"/></g>
+            <circle cx="90" cy="74" r="44" fill="#1a1a1a"/>
+            <path d="M52 50 L60 22 L78 44 Z" fill="#1a1a1a"/>
+            <path d="M128 50 L120 22 L102 44 Z" fill="#1a1a1a"/>
+            <path d="M58 44 L62 30 L70 42 Z" fill="#c2410c"/>
+            <path d="M122 44 L118 30 L110 42 Z" fill="#c2410c"/>
+            <g stroke="#c2410c" stroke-width="1" stroke-linecap="round" opacity=".7">
+              <line x1="58" y1="82" x2="42" y2="80"/>
+              <line x1="58" y1="86" x2="42" y2="90"/>
+              <line x1="122" y1="82" x2="138" y2="80"/>
+              <line x1="122" y1="86" x2="138" y2="90"/>
+            </g>
+            <ellipse class="cat-eye" cx="74" cy="74" rx="6" ry="7" fill="#f5f1ea"/>
+            <ellipse class="cat-eye" cx="106" cy="74" rx="6" ry="7" fill="#f5f1ea"/>
+            <circle cx="75" cy="76" r="2.5" fill="#1a1a1a"/>
+            <circle cx="107" cy="76" r="2.5" fill="#1a1a1a"/>
+            <path d="M86 88 L94 88 L90 93 Z" fill="#c2410c"/>
+            <path d="M84 94 q 6 5 12 0" fill="none" stroke="#f5f1ea" stroke-width="1.4" stroke-linecap="round"/>
+          </svg>
+        </div>
+        <span class="cat-note note-1">♪</span>
+        <span class="cat-note note-2">♫</span>
+        <span class="cat-note note-3">♪</span>
+      </div>
+
+      <div class="loading-label">// Analyse en cours</div>
+      <h2 class="loading-title serif">Recherche des meilleurs prix<em>…</em></h2>
+      <p class="loading-sub" id="loading-timer">Estimation : 60 – 90 secondes</p>
+
+      <div class="steps-list">
+        <div class="step-row" id="step-1">
+          <span class="step-dot"></span>
+          <span class="step-text">Extraction de la page produit</span>
+        </div>
+        <div class="step-row" id="step-2">
+          <span class="step-dot"></span>
+          <span class="step-text">Enrichissement par intelligence artificielle</span>
+        </div>
+        <div class="step-row" id="step-3">
+          <span class="step-dot"></span>
+          <span class="step-text">Recherche des meilleurs prix du marché</span>
+        </div>
+      </div>
+
+      <div class="progress-wrap">
+        <div class="progress-row">
+          <span id="prog-label">0 composants analysés</span>
+          <span id="prog-pct">0%</span>
+        </div>
+        <div class="progress-track">
+          <div class="progress-fill" id="progress-fill"></div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ═══ RESULTS ═══ -->
+  <section id="results" class="results-section hidden">
+
+    <!-- PC Header -->
+    <div class="pc-header">
+      <div class="pc-header-left">
+        <div class="section-eyebrow"></div>
+        <h2 id="pc-name" class="pc-name serif"></h2>
+        <div class="pc-tags">
+          <span id="pc-usage" class="tag tag-usage hidden"></span>
+          <span id="pc-tier"  class="tag tag-tier  hidden"></span>
+        </div>
+      </div>
+      <div class="pc-header-right">
+        <div class="section-eyebrow">PRIX LDLC</div>
+        <div class="pc-price serif" id="pc-price" style="font-weight: 500">—</div>
+      </div>
+    </div>
+
+    <!-- Economy hero panel -->
+    <div class="economy-panel" id="economy-hero">
+      <div class="economy-left">
+        <div class="economy-eyebrow" id="economy-eyebrow">Δ Différence de prix</div>
+        <div class="economy-number serif" id="economy-number">—</div>
+        <div class="economy-row">
+          <span class="economy-meta">Prix LDLC</span>
+          <span class="serif economy-price" id="econ-ldlc">—</span>
+          <span class="economy-sep">→</span>
+          <span class="economy-meta">En pièces</span>
+          <span class="serif economy-price" id="econ-pieces">—</span>
+        </div>
+      </div>
+      <div class="economy-right">
+        <div class="verdict-tag" id="verdict-label"></div>
+        <div class="verdict-economy serif" id="verdict-economy"></div>
+        <div class="verdict-desc" id="verdict-sub"></div>
+      </div>
+    </div>
+
+    <!-- Components table -->
+    <div class="data-section">
+      <div class="data-header">
+        <div>
+          <div class="section-eyebrow"></div>
+          <h3 class="data-title serif">Prix individuels · meilleure offre trouvée</h3>
+        </div>
+        <div class="data-total-wrap">
+          <span class="section-eyebrow"></span>
+          <span class="serif data-total" id="total-prix" style="font-weight: 500">—</span>
+        </div>
+      </div>
+
+      <div class="data-table">
+        <div class="dt-head">
+          <span>Composant</span>
+          <span>Référence</span>
+          <span>Statut</span>
+          <span class="dt-right">Prix</span>
+          <span>Marchand</span>
+          <span class="dt-right">Lien</span>
+        </div>
+        <div id="components-body"></div>
+        <div class="dt-foot">
+          <span style="grid-column:1/4">Total des pièces séparées</span>
+          <span class="serif dt-foot-total dt-right" id="total-prix-foot" style="font-weight: 500">—</span>
+          <span></span><span></span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Comparison + Verdict -->
+    <div class="bottom-grid">
+
+      <div class="comparison-panel">
+        <div class="section-eyebrow" style="margin-bottom: 20px; font-weight: 500">RECAPITULATIF</div>
+        <div class="cmp-line">
+          <span class="cmp-label">PC prémonté LDLC</span>
+          <span class="cmp-value serif" id="cmp-pc">—</span>
+        </div>
+        <div class="cmp-sep"></div>
+        <div class="cmp-line">
+          <span class="cmp-label">Composants achetés séparément</span>
+          <span class="cmp-value serif" id="cmp-pieces">—</span>
+        </div>
+        <div class="cmp-sep"></div>
+        <div class="cmp-line cmp-highlight">
+          <span class="cmp-label">Économie réalisée</span>
+          <span class="cmp-value serif" id="cmp-economie">—</span>
+        </div>
+      </div>
+
+      <div class="verdict-panel" id="verdict-card">
+        <div class="verdict-panel-label serif" id="verdict-card-label"></div>
+        <div class="verdict-panel-eco" id="verdict-card-eco"></div>
+        <div class="verdict-panel-sub" id="verdict-card-sub"></div>
+      </div>
+
+    </div>
+
+    <!-- Disclaimer -->
+    <div class="disclaimer">
+      <span class="discl-mark">⚠</span>
+      <div>
+        Les composants marqués <span class="tag tag-estimated">estimé</span>
+        ont été identifiés par IA — leur référence exacte n'était pas disponible sur la fiche produit.
+      </div>
+    </div>
+
+    <button class="reset-btn" onclick="resetForm()">
+      ← Nouvelle analyse
+    </button>
+
+  </section>
+
+  <!-- ═══ FOOTER ═══ -->
+  <footer class="footer">
+    <div class="footer-left">
+      <span class="brand-name footer-brand"><span class="brand-letter">B</span><span class="brand-dot">.</span>pc</span>
+      <span class="footer-sep">·</span>
+      <span>Comparateur de pc </span>
+    </div>
+    <div class="footer-right">
+      Édition n° 0042 · v0.4 bêta · France
+    </div>
+  </footer>
+
+  <script src="/static/app_v2.js?v=3"></script>
+</body>
+</html>
