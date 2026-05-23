@@ -1,0 +1,921 @@
+[
+  {
+    "product_name": "ASUS ROG STRIX G700TF-07265F342W",
+    "product_price": 4099.95,
+    "pc_analysis": {
+      "usage": "gaming / création",
+      "tier": "haut de gamme",
+      "notes": "Le prix élevé et les composants détectés suggèrent un usage intensif pour le gaming et la création de contenu."
+    },
+    "verdict": {
+      "verdict_label": "DEAL OF THE LIFE",
+      "difference_euros": 1295.33,
+      "verdict_sub": "Économie exceptionnelle de 1295.33 € — foncez !"
+    },
+    "composants_sans_prix": [],
+    "detail_composants": {
+      "cpu": {
+        "nom": "Intel Core Ultra 5 245KF",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 189.0,
+        "titre_offre": "Intel Core Ultra 5 245KF processeur",
+        "site": "Cdiscount",
+        "lien": "https://www.google.com/search?ibp=oshop&q=Intel Core Ultra 5 245KF&prds=catalogid:8743416547218360962,productid:10943636706083962914,headlineOfferDocid:395177571800847793,imageDocid:14358203704444966257,rds:PC_4409343652884577628|PROD_PC_4409343652884577628,gpcid:4409343652884577628,mid:576462819786666877,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "gpu": {
+        "nom": "NVIDIA RTX 5080 16Go",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 1324.2,
+        "titre_offre": "Palit GeForce RTX 5080 GamingPro",
+        "site": "achatmoinscher",
+        "lien": "https://www.google.com/search?ibp=oshop&q=NVIDIA RTX 5080 16Go&prds=catalogid:6740935864814806358,productid:11712781306832558726,headlineOfferDocid:15498905358459756555,imageDocid:10125235564453408231,rds:PC_13825741304380409512|PROD_PC_13825741304380409512,gpcid:13825741304380409512,mid:576462849164005624,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "ram": {
+        "nom": "G.Skill Trident Z5 32Go DDR5 6000MHz",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 515.97,
+        "titre_offre": "DDR5 G.Skill Trident Z5 Neo RGB",
+        "site": "Cdiscount",
+        "lien": "https://www.google.com/search?ibp=oshop&q=G.Skill Trident Z5 32Go DDR5 6000MHz&prds=catalogid:15890724549796545797,productid:3956678351214925354,headlineOfferDocid:17839631943891115365,imageDocid:5462335220407095643,rds:PC_3924730074321743870|PROD_PC_3924730074321743870,gpcid:3924730074321743870,mid:576462801687138218,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "ssd": {
+        "nom": "Samsung 980 1To NVMe",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 78.39,
+        "titre_offre": "Disque SSD interne Samsung M2 NVMe 500 Go 990 PRO 250 Go, disque dur 980 1 To, d",
+        "site": "AliExpress",
+        "lien": "https://www.google.com/search?ibp=oshop&q=Samsung 980 1To NVMe&prds=productid:9315253043259673616,headlineOfferDocid:9315253043259673616,imageDocid:8907028032422685666,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "case": {
+        "nom": "be quiet Pure Base 500",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 40.0,
+        "titre_offre": "Be Quiet Pure Base 500",
+        "site": "Leboncoin",
+        "lien": "https://www.google.com/search?ibp=oshop&q=be quiet Pure Base 500&prds=productid:15194830321724772072,headlineOfferDocid:15194830321724772072,imageDocid:3184096170292277073,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "psu": {
+        "nom": "be quiet System Power 10 850W",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 143.44,
+        "titre_offre": "be quiet! System Power 10 BN330 - Power Supply Unit, 850W, 20+4 pin, ATX, 80 PLU",
+        "site": "TopMarket.co.il",
+        "lien": "https://www.google.com/search?ibp=oshop&q=be quiet System Power 10 850W&prds=productid:10026283578550779563,headlineOfferDocid:10026283578550779563,imageDocid:14740736163471250054,rds:PC_2116733862636091643|PROD_PC_2116733862636091643,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "motherboard": {
+        "nom": "ASUS PRIME Z890-A",
+        "statut": "estimated",
+        "estime": true,
+        "prix_retenu": 426.42,
+        "titre_offre": "ASUS ROG STRIX Z890 A GAMING WIFI",
+        "site": "ASUS Store FR",
+        "lien": "https://www.google.com/search?ibp=oshop&q=ASUS PRIME Z890-A&prds=catalogid:11731666363931516958,productid:17184957907590841206,headlineOfferDocid:1957357493690844653,imageDocid:3618820995386933889,rds:PC_4892719781535427362|PROD_PC_4892719781535427362,gpcid:4892719781535427362,mid:576462859074417715,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "cooler": {
+        "nom": "Noctua NH-U12S LGA1851",
+        "statut": "estimated",
+        "estime": true,
+        "prix_retenu": 87.2,
+        "titre_offre": "Noctua NH-L12 Ghost S1 Ventilateur CPU",
+        "site": "Microless.com",
+        "lien": "https://www.google.com/search?ibp=oshop&q=Noctua NH-U12S LGA1851&prds=catalogid:14444875004504574598,productid:4335047875101103831,headlineOfferDocid:601132706531542435,imageDocid:4599029913225168711,rds:PC_14752887297447263944|PROD_PC_14752887297447263944,gpcid:14752887297447263944,mid:576462569814639771,pvt:hg&hl=fr&gl=fr&udm=28"
+      }
+    },
+    "url": "https://www.ldlc.com/fiche/PB00706786.html",
+    "label": "ASUS ROG STRIX G700TF (Core Ultra 7 / RTX 5080)"
+  },
+  {
+    "product_name": "LDLC PC11P Zi Artist 9 Studio",
+    "product_price": 6899.95,
+    "pc_analysis": {
+      "usage": "création / gaming",
+      "tier": "haut de gamme",
+      "notes": "Le PC est équipé d'un processeur Intel Core Ultra 200 et d'une carte graphique NVIDIA GeForce RTX, ce qui suggère une utilisation pour la création et le gaming de haute performance."
+    },
+    "verdict": {
+      "verdict_label": "DEAL OF THE LIFE",
+      "difference_euros": 1607.82,
+      "verdict_sub": "Économie exceptionnelle de 1607.82 € — foncez !"
+    },
+    "composants_sans_prix": [],
+    "detail_composants": {
+      "cpu": {
+        "nom": "Intel Core Ultra 9 245KF",
+        "statut": "estimated",
+        "estime": true,
+        "prix_retenu": 460.32,
+        "titre_offre": "Intel Core Ultra 5 245kf + Dissipateur Lga1851 Cpu Sans Gpu Intégré",
+        "site": "eBay - simpletek-italia",
+        "lien": "https://www.google.com/search?ibp=oshop&q=Intel Core Ultra 9 245KF&prds=productid:10509806955026033657,headlineOfferDocid:10509806955026033657,imageDocid:9621401869052636437,rds:PC_4409343652884577628|PROD_PC_4409343652884577628,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "gpu": {
+        "nom": "NVIDIA RTX 5090 24Go",
+        "statut": "estimated",
+        "estime": true,
+        "prix_retenu": 3848.55,
+        "titre_offre": "Zotac GeForce RTX 5090 ARCTICSTORM AIO",
+        "site": "reichelt.com",
+        "lien": "https://www.google.com/search?ibp=oshop&q=NVIDIA RTX 5090 24Go&prds=catalogid:3456881821741101843,productid:8452856380818718773,headlineOfferDocid:4765198813270867197,imageDocid:16689103979423980488,rds:PC_6019649328309894616|PROD_PC_6019649328309894616,gpcid:6019649328309894616,mid:576462841270247474,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "ram": {
+        "nom": "64 Go de RAM",
+        "statut": "found",
+        "estime": false,
+        "prix_retenu": 295.74,
+        "titre_offre": "ADATA XPG Lancer RGB DDR5 6000C30",
+        "site": "Carrefour",
+        "lien": "https://www.google.com/search?ibp=oshop&q=64 Go de RAM prix&prds=catalogid:8162564592773765051,productid:11678516305072706158,headlineOfferDocid:12935030715525797755,imageDocid:12540447719116038335,rds:PC_1548290483146713349|PROD_PC_1548290483146713349,gpcid:1548290483146713349,mid:576462883847687165,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "ssd": {
+        "nom": "SSD M.2 PCIe 5.0 Samsung SSD 990 EVO Plus 4 To",
+        "statut": "found",
+        "estime": false,
+        "prix_retenu": 189.99,
+        "titre_offre": "Samsung SSD 990 PRO 2 4.0 NVMe",
+        "site": "Cdiscount",
+        "lien": "https://www.google.com/search?ibp=oshop&q=SSD M.2 PCIe 5.0 Samsung SSD 990 EVO Plus 4 To prix&prds=catalogid:11214110810864047077,productid:9487162357290858255,headlineOfferDocid:6094123210707324970,imageDocid:18192447807276647462,rds:PC_1771359071691708116|PROD_PC_1771359071691708116,gpcid:1771359071691708116,mid:576462751670899455,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "motherboard": {
+        "nom": "MSI PRO Z890-A WIFI",
+        "statut": "estimated",
+        "estime": true,
+        "prix_retenu": 258.78,
+        "titre_offre": "ASUS TUF GAMING Z890 PLUS WIFI",
+        "site": "Amazon.fr - Seller",
+        "lien": "https://www.google.com/search?ibp=oshop&q=MSI PRO Z890-A WIFI&prds=catalogid:10764721547698779890,productid:16718894581974855488,headlineOfferDocid:12566743935936798548,imageDocid:7340262289842191459,rds:PC_3742853853589059022|PROD_PC_3742853853589059022,gpcid:3742853853589059022,mid:576462796784830321,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "case": {
+        "nom": "Fox Spirit EG1 Core",
+        "statut": "found",
+        "estime": false,
+        "prix_retenu": 71.95,
+        "titre_offre": "Fox Spirit mg1",
+        "site": "Carrefour",
+        "lien": "https://www.google.com/search?ibp=oshop&q=Fox Spirit EG1 Core prix&prds=catalogid:16941648878517591677,productid:18242605647277230835,headlineOfferDocid:10835029161992462469,imageDocid:11232950011424409454,gpcid:10070522043048530941,mid:576462857285934711,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "cooler": {
+        "nom": "Corsair Nautilus 360 RS",
+        "statut": "found",
+        "estime": false,
+        "prix_retenu": 51.85,
+        "titre_offre": "Corsair Module écran LCD NAUTILUS RS",
+        "site": "Microless.com",
+        "lien": "https://www.google.com/search?ibp=oshop&q=Corsair Nautilus 360 RS prix&prds=catalogid:5297105093192504351,productid:16981249897253408959,headlineOfferDocid:4376951175143207284,imageDocid:15352523746932749757,rds:PC_16880033669500441979|PROD_PC_16880033669500441979,gpcid:16880033669500441979,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "psu": {
+        "nom": "Fox Spirit HG 1000 80PLUS Gold",
+        "statut": "found",
+        "estime": false,
+        "prix_retenu": 114.95,
+        "titre_offre": "Fox Spirit hg 750 80PLUS Gold",
+        "site": "LDLC",
+        "lien": "https://www.google.com/search?ibp=oshop&q=Fox Spirit HG 1000 80PLUS Gold prix&prds=catalogid:13022009922882671210,productid:2715882049076509462,headlineOfferDocid:2047672629568998547,imageDocid:7184045527304243659,gpcid:1854647562158619659,mid:576462762486080939,pvt:hg&hl=fr&gl=fr&udm=28"
+      }
+    },
+    "url": "https://www.ldlc.com/fiche/PB00664315.html",
+    "label": "PC11P Zi Artist 9 Studio (Core Ultra 9 / RTX 5090 / AIO 360)"
+  },
+  {
+    "product_name": "LDLC PC11 Plus Perfect",
+    "product_price": 1799.95,
+    "pc_analysis": {
+      "usage": "gaming / création",
+      "tier": "haut de gamme",
+      "notes": "Le PC est équipé d'un processeur Intel Core i7 et d'une carte graphique NVIDIA GeForce RTX 3060 Ti, ce qui le destine à des utilisations exigeantes comme le gaming et la création de contenu."
+    },
+    "verdict": {
+      "verdict_label": "DEAL OF THE LIFE",
+      "difference_euros": 733.29,
+      "verdict_sub": "Économie exceptionnelle de 733.29 € — foncez !"
+    },
+    "composants_sans_prix": [],
+    "detail_composants": {
+      "cpu": {
+        "nom": "Intel Core i7-12700KF",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 199.0,
+        "titre_offre": "Intel Core i7-12700K Processeur",
+        "site": "Leboncoin",
+        "lien": "https://www.google.com/search?ibp=oshop&q=Intel Core i7-12700KF&prds=catalogid:13727402659058459155,productid:16729226372083692933,headlineOfferDocid:11208305777246932367,imageDocid:5839300603585132708,rds:PC_13439835488438828308|PROD_PC_13439835488438828308,gpcid:13439835488438828308,mid:576462704486488265,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "gpu": {
+        "nom": "NVIDIA GeForce RTX 3060 Ti 8Go",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 180.0,
+        "titre_offre": "PNY GeForce RTX 3060 Ti carte Graphique LHR 8Go (Vcg3060t8ldfxppb)",
+        "site": "Leboncoin",
+        "lien": "https://www.google.com/search?ibp=oshop&q=NVIDIA RTX 3060 Ti 8Go&prds=catalogid:17784559371772571735,productid:9476448743277743479,headlineOfferDocid:18339548133341810890,imageDocid:7215392787574964077,gpcid:14103968480085479171,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "ram": {
+        "nom": "Corsair Vengeance 32Go DDR4 3200MHz",
+        "statut": "estimated",
+        "estime": true,
+        "prix_retenu": 318.85,
+        "titre_offre": "Corsair DDR4 Vengeance LPX",
+        "site": "Corsair.com",
+        "lien": "https://www.google.com/search?ibp=oshop&q=Corsair Vengeance 32Go DDR4 3200MHz&prds=catalogid:9900599845081308984,productid:13277824513195411992,headlineOfferDocid:17114197980517297465,imageDocid:15067791978734960080,rds:PC_7775530680893226337|PROD_PC_7775530680893226337,gpcid:7775530680893226337,mid:576462741154612049,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "ssd": {
+        "nom": "Samsung SSD 980 M.2 PCIe NVMe 500 Go",
+        "statut": "found",
+        "estime": false,
+        "prix_retenu": 78.39,
+        "titre_offre": "Disque SSD interne Samsung M2 NVMe 500 Go 990 PRO 250 Go, disque dur 980 1 To, d",
+        "site": "AliExpress",
+        "lien": "https://www.google.com/search?ibp=oshop&q=Samsung SSD 980 M.2 PCIe NVMe 500 Go prix&prds=productid:9315253043259673616,headlineOfferDocid:9315253043259673616,imageDocid:8907028032422685666,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "motherboard": {
+        "nom": "ASUS TUF GAMING Z690-PLUS WIFI D4",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 60.0,
+        "titre_offre": "Carte mère Asus Tuf Gaming Z690 plus Wifi D4",
+        "site": "Leboncoin",
+        "lien": "https://www.google.com/search?ibp=oshop&q=ASUS TUF GAMING Z690-PLUS WIFI D4&prds=productid:7404520542773962912,headlineOfferDocid:7404520542773962912,imageDocid:2890902172901068841,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "case": {
+        "nom": "MSI MPG GUNGNIR 110R Noir",
+        "statut": "found",
+        "estime": false,
+        "prix_retenu": 55.48,
+        "titre_offre": "MSI MAG Forge 110R",
+        "site": "achatnet",
+        "lien": "https://www.google.com/search?ibp=oshop&q=MSI MPG GUNGNIR 110R Noir prix&prds=catalogid:11598202887805628758,productid:14194132784472502222,headlineOfferDocid:6943057959767100257,imageDocid:247516310414807670,rds:PC_13911620957025440776|PROD_PC_13911620957025440776,gpcid:13911620957025440776,mid:576462724142879329,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "cooler": {
+        "nom": "Fox Spirit LightFlow AiO 240 ARGB V2",
+        "statut": "found",
+        "estime": false,
+        "prix_retenu": 84.95,
+        "titre_offre": "Fox Spirit Lightflow gx240 core",
+        "site": "LDLC",
+        "lien": "https://www.google.com/search?ibp=oshop&q=Fox Spirit LightFlow AiO 240 ARGB V2 prix&prds=catalogid:4733227689954604873,productid:14816639040988497588,headlineOfferDocid:11281979225504022050,imageDocid:7167202821926386497,gpcid:11508519135395559347,mid:576462886504749234,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "psu": {
+        "nom": "Fox Spirit US-650G V2 80PLUS Gold",
+        "statut": "found",
+        "estime": false,
+        "prix_retenu": 89.99,
+        "titre_offre": "Fox Spirit HG650 hg 650",
+        "site": "Rue du Commerce",
+        "lien": "https://www.google.com/search?ibp=oshop&q=Fox Spirit US-650G V2 80PLUS Gold prix&prds=catalogid:16340545443391618832,productid:15083096628595330973,headlineOfferDocid:1628378419501550532,imageDocid:2286953633060271590,gpcid:16528906060581480088,mid:576462801172534319,pvt:hg&hl=fr&gl=fr&udm=28"
+      }
+    },
+    "url": "https://www.ldlc.com/fiche/PB00475427.html",
+    "label": "PC11 Plus Perfect (i7-12700KF / RTX 3060 Ti / AIO 240)"
+  },
+  {
+    "product_name": "LDLC PC11 ART Seventy",
+    "product_price": 1399.95,
+    "pc_analysis": {
+      "usage": "gaming / création",
+      "tier": "milieu de gamme",
+      "notes": "Le PC est équipé d'une carte graphique NVIDIA GeForce RTX 5070, ce qui suggère une utilisation pour le gaming et la création de contenu. Le prix de 1399,95€ place ce PC dans la catégorie milieu de gamme."
+    },
+    "verdict": {
+      "verdict_label": "BON DEAL",
+      "difference_euros": 140.92,
+      "verdict_sub": "Vous économisez 140.92 € en achetant les pièces séparément."
+    },
+    "composants_sans_prix": [],
+    "detail_composants": {
+      "cpu": {
+        "nom": "AMD Ryzen 5 5600X",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 137.99,
+        "titre_offre": "AMD Ryzen 5 5600GT",
+        "site": "Cdiscount",
+        "lien": "https://www.google.com/search?ibp=oshop&q=AMD Ryzen 5 5600X&prds=catalogid:17199455361357238477,productid:15595703361229302971,headlineOfferDocid:17502124011424374233,imageDocid:12620661566765250824,rds:PC_10272920414188453994|PROD_PC_10272920414188453994,gpcid:10272920414188453994,mid:576462807939876199,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "gpu": {
+        "nom": "NVIDIA GeForce RTX 5070 avec 12 Go de mémoire",
+        "statut": "found",
+        "estime": false,
+        "prix_retenu": 597.99,
+        "titre_offre": "ASUS Prime GeForce RTX 5070 OC",
+        "site": "Top Achat",
+        "lien": "https://www.google.com/search?ibp=oshop&q=NVIDIA GeForce RTX 5070 avec 12 Go de mémoire prix&prds=catalogid:17569199379496583020,productid:15966977635276342530,headlineOfferDocid:12973520599377489664,imageDocid:768592178103661082,rds:PC_11952502172718394670|PROD_PC_11952502172718394670,gpcid:11952502172718394670,mid:576462826599272122,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "ram": {
+        "nom": "16 Go de mémoire DDR4",
+        "statut": "found",
+        "estime": false,
+        "prix_retenu": 99.99,
+        "titre_offre": "Crucial DDR4",
+        "site": "Cdiscount",
+        "lien": "https://www.google.com/search?ibp=oshop&q=16 Go de mémoire DDR4 prix&prds=catalogid:2631887721617015719,productid:647825942526131636,headlineOfferDocid:9054890397954043726,imageDocid:1502410769969416367,rds:PC_10030309654010607942|PROD_PC_10030309654010607942,gpcid:10030309654010607942,mid:576462842494750699,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "ssd": {
+        "nom": "Samsung 980 1To NVMe",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 78.39,
+        "titre_offre": "Disque SSD interne Samsung M2 NVMe 500 Go 990 PRO 250 Go, disque dur 980 1 To, d",
+        "site": "AliExpress",
+        "lien": "https://www.google.com/search?ibp=oshop&q=Samsung 980 1To NVMe&prds=productid:9315253043259673616,headlineOfferDocid:9315253043259673616,imageDocid:8907028032422685666,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "motherboard": {
+        "nom": "ASRock B550M Steel Legend Micro ATX",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 62.52,
+        "titre_offre": "Asrock B550M-HDV",
+        "site": "reichelt.com",
+        "lien": "https://www.google.com/search?ibp=oshop&q=ASRock B550M Steel Legend Micro ATX&prds=catalogid:11842558241165751256,productid:17628040838229904999,headlineOfferDocid:16924117360925071578,imageDocid:4780885608048547023,rds:PC_5735004269534998719|PROD_PC_5735004269534998719,gpcid:5735004269534998719,mid:576462757740762181,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "case": {
+        "nom": "Zalman i3 Neo V2 Black",
+        "statut": "found",
+        "estime": false,
+        "prix_retenu": 61.09,
+        "titre_offre": "Zalman i3 Edge",
+        "site": "Rue du Commerce Marketplace",
+        "lien": "https://www.google.com/search?ibp=oshop&q=Zalman i3 Neo V2 Black prix&prds=catalogid:7539001945136585136,productid:14338503376002435450,headlineOfferDocid:10532492149148016902,imageDocid:6051209230445817199,rds:PC_7928649534416476017|PROD_PC_7928649534416476017,gpcid:7928649534416476017,mid:576462694343749966,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "psu": {
+        "nom": "be quiet System Power 10 650W",
+        "statut": "estimated",
+        "estime": true,
+        "prix_retenu": 130.53,
+        "titre_offre": "be quiet! Pure Power 13 M",
+        "site": "LDLC",
+        "lien": "https://www.google.com/search?ibp=oshop&q=be quiet System Power 10 650W&prds=catalogid:2593517498116182665,productid:16821913463402261234,headlineOfferDocid:14331466124230739525,imageDocid:17538958864304580949,rds:PC_3126853303890760979|PROD_PC_3126853303890760979,gpcid:3126853303890760979,mid:576462861545069865,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "cooler": {
+        "nom": "Noctua NH-U12S",
+        "statut": "estimated",
+        "estime": true,
+        "prix_retenu": 90.53,
+        "titre_offre": "Noctua NH-U12S",
+        "site": "Darty",
+        "lien": "https://www.google.com/search?ibp=oshop&q=Noctua NH-U12S AM4&prds=catalogid:15180361116435551802,productid:11353627118678689547,headlineOfferDocid:824441999805424995,imageDocid:13855531049894899602,rds:PC_3591798373196325917|PROD_PC_3591798373196325917,gpcid:3591798373196325917,mid:576462684675933981,pvt:hg&hl=fr&gl=fr&udm=28"
+      }
+    },
+    "url": "https://www.ldlc.com/fiche/PB00671360.html",
+    "label": "PC11 ART Seventy (Ryzen 5 / RTX 5070)"
+  },
+  {
+    "product_name": "LDLC PC11 Zen-M5 X3D Plus Perfect Seven-Ti",
+    "product_price": 2499.95,
+    "pc_analysis": {
+      "usage": "gaming / création",
+      "tier": "haut de gamme",
+      "notes": "Le PC est conçu pour des performances élevées, avec un processeur Ryzen 7 et une carte graphique RTX 5070 Ti, ce qui le rend adapté pour les jeux et les applications exigeantes."
+    },
+    "verdict": {
+      "verdict_label": "DEAL OF THE LIFE",
+      "difference_euros": 920.63,
+      "verdict_sub": "Économie exceptionnelle de 920.63 € — foncez !"
+    },
+    "composants_sans_prix": [],
+    "detail_composants": {
+      "cpu": {
+        "nom": "AMD Ryzen 7 7700X",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 170.0,
+        "titre_offre": "Ryzen 7 7700X",
+        "site": "Leboncoin",
+        "lien": "https://www.google.com/search?ibp=oshop&q=AMD Ryzen 7 7700X&prds=productid:4011545015724408454,headlineOfferDocid:4011545015724408454,imageDocid:18362201086014807371,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "gpu": {
+        "nom": "NVIDIA RTX 5070 Ti 16Go",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 873.99,
+        "titre_offre": "Gainward GeForce RTX 5070 Ti Phoenix-S",
+        "site": "Top Achat",
+        "lien": "https://www.google.com/search?ibp=oshop&q=NVIDIA RTX 5070 Ti 16Go&prds=catalogid:16844572079337723339,productid:489127996665643523,headlineOfferDocid:5852812092249721482,imageDocid:12636374810796298720,rds:PC_14390649062626419288|PROD_PC_14390649062626419288,gpcid:14390649062626419288,mid:576462518319549841,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "ram": {
+        "nom": "Kingston Fury Beast 16Go DDR5 5200MHz",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 208.21,
+        "titre_offre": "DDR5 Kingston FURY Beast Go",
+        "site": "PcComponentes FR",
+        "lien": "https://www.google.com/search?ibp=oshop&q=Kingston Fury Beast 16Go DDR5 5200MHz&prds=catalogid:9466081318618393208,productid:4082713420210672598,headlineOfferDocid:15251586755359623232,imageDocid:7246719910592598830,rds:PC_17776279335597321638|PROD_PC_17776279335597321638,gpcid:17776279335597321638,mid:576462556571920635,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "ssd": {
+        "nom": "Samsung 980 1To NVMe",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 78.39,
+        "titre_offre": "Disque SSD interne Samsung M2 NVMe 500 Go 990 PRO 250 Go, disque dur 980 1 To, d",
+        "site": "AliExpress",
+        "lien": "https://www.google.com/search?ibp=oshop&q=Samsung 980 1To NVMe&prds=productid:9315253043259673616,headlineOfferDocid:9315253043259673616,imageDocid:8907028032422685666,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "motherboard": {
+        "nom": "ASRock B650M Steel Legend Micro ATX",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 98.37,
+        "titre_offre": "Asrock B650M-HDV/M.2",
+        "site": "Cdiscount",
+        "lien": "https://www.google.com/search?ibp=oshop&q=ASRock B650M Steel Legend Micro ATX&prds=catalogid:1079884554969676283,productid:9136017517968060518,headlineOfferDocid:8718881744771282180,imageDocid:5342443792679924347,rds:PC_15079282715456989930|PROD_PC_15079282715456989930,gpcid:15079282715456989930,mid:576462452505779606,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "case": {
+        "nom": "be quiet Pure Base 500",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 40.0,
+        "titre_offre": "Be Quiet Pure Base 500",
+        "site": "Leboncoin",
+        "lien": "https://www.google.com/search?ibp=oshop&q=be quiet Pure Base 500&prds=productid:15194830321724772072,headlineOfferDocid:15194830321724772072,imageDocid:3184096170292277073,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "psu": {
+        "nom": "be quiet System Power 10 750W",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 68.98,
+        "titre_offre": "be quiet! System Power 10 650W",
+        "site": "Rakuten - Pro_Occasion",
+        "lien": "https://www.google.com/search?ibp=oshop&q=be quiet System Power 10 750W&prds=catalogid:10722749970524641404,productid:5698256890074103783,headlineOfferDocid:18097644626753972887,imageDocid:12418050162592234648,rds:PC_13263212835817159091|PROD_PC_13263212835817159091,gpcid:13263212835817159091,mid:576462728263075199,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "cooler": {
+        "nom": "DeepCool AK400 AM5",
+        "statut": "estimated",
+        "estime": true,
+        "prix_retenu": 41.38,
+        "titre_offre": "DeepCool AK400 CPU Cooler 120mm FDB Fan 1850 RPM Fan Speed 66.47 CFM Fan Airflow",
+        "site": "Microless.com",
+        "lien": "https://www.google.com/search?ibp=oshop&q=DeepCool AK400 AM5&prds=catalogid:14909989902276814794,productid:2327394319235355051,headlineOfferDocid:14753683396529768771,imageDocid:6989844212433449010,rds:PC_1139314249780967952|PROD_PC_1139314249780967952,gpcid:1139314249780967952,mid:576462866243733026,pvt:hg&hl=fr&gl=fr&udm=28"
+      }
+    },
+    "url": "https://www.ldlc.com/fiche/PB00668591.html",
+    "label": "Zen-M5 X3D Seven-Ti (Ryzen 7 / RTX 5070 Ti / DDR5)"
+  },
+  {
+    "product_name": "LDLC PC11 Perfect Gen16",
+    "product_price": 1679.95,
+    "pc_analysis": {
+      "usage": "gaming / création",
+      "tier": "haut de gamme",
+      "notes": "Le PC est équipé d'un processeur Intel Core Ultra 200 et d'une carte graphique NVIDIA GeForce RTX 5060, ce qui suggère une utilisation pour le gaming et la création de contenu. Le prix de 1679,95€ est élevé, ce qui confirme son statut de haut de gamme."
+    },
+    "verdict": {
+      "verdict_label": "BIG DEAL",
+      "difference_euros": 361.89,
+      "verdict_sub": "Belle économie de 361.89 € sur ce PC prémonté !"
+    },
+    "composants_sans_prix": [],
+    "detail_composants": {
+      "cpu": {
+        "nom": "Intel Core Ultra 5 245KF",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 189.0,
+        "titre_offre": "Intel Core Ultra 5 245KF processeur",
+        "site": "Cdiscount",
+        "lien": "https://www.google.com/search?ibp=oshop&q=Intel Core Ultra 5 245KF&prds=catalogid:8743416547218360962,productid:10943636706083962914,headlineOfferDocid:395177571800847793,imageDocid:14358203704444966257,rds:PC_4409343652884577628|PROD_PC_4409343652884577628,gpcid:4409343652884577628,mid:576462819786666877,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "gpu": {
+        "nom": "NVIDIA RTX 5060 16Go",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 489.9,
+        "titre_offre": "Gigabyte GeForce RTX 5060 Ti WINDFORCE MAX OC Carte Graphique Go GDDR7",
+        "site": "instinctgaming.gg",
+        "lien": "https://www.google.com/search?ibp=oshop&q=NVIDIA RTX 5060 16Go&prds=catalogid:16289877149472139084,productid:17880069744603249173,headlineOfferDocid:16205934668314881962,imageDocid:11866229578635639950,rds:PC_1194264011639150404|PROD_PC_1194264011639150404,gpcid:1194264011639150404,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "ram": {
+        "nom": "Kingston Fury Beast 16Go DDR5 5200MHz",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 208.21,
+        "titre_offre": "DDR5 Kingston FURY Beast Go",
+        "site": "PcComponentes FR",
+        "lien": "https://www.google.com/search?ibp=oshop&q=Kingston Fury Beast 16Go DDR5 5200MHz&prds=catalogid:9466081318618393208,productid:4082713420210672598,headlineOfferDocid:15251586755359623232,imageDocid:7246719910592598830,rds:PC_17776279335597321638|PROD_PC_17776279335597321638,gpcid:17776279335597321638,mid:576462556571920635,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "ssd": {
+        "nom": "Samsung 980 1To NVMe",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 78.39,
+        "titre_offre": "Disque SSD interne Samsung M2 NVMe 500 Go 990 PRO 250 Go, disque dur 980 1 To, d",
+        "site": "AliExpress",
+        "lien": "https://www.google.com/search?ibp=oshop&q=Samsung 980 1To NVMe&prds=productid:9315253043259673616,headlineOfferDocid:9315253043259673616,imageDocid:8907028032422685666,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "motherboard": {
+        "nom": "ASUS PRIME B860-PLUS",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 156.38,
+        "titre_offre": "ASUS PRIME B860M-A CSM",
+        "site": "Fnac",
+        "lien": "https://www.google.com/search?ibp=oshop&q=ASUS PRIME B860-PLUS&prds=catalogid:604461448829273097,productid:3037368417092820778,headlineOfferDocid:4848004423204345980,imageDocid:18318806187028110448,rds:PC_2797385231888142508|PROD_PC_2797385231888142508,gpcid:2797385231888142508,mid:576462880389876889,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "case": {
+        "nom": "be quiet Pure Base 500",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 40.0,
+        "titre_offre": "Be Quiet Pure Base 500",
+        "site": "Leboncoin",
+        "lien": "https://www.google.com/search?ibp=oshop&q=be quiet Pure Base 500&prds=productid:15194830321724772072,headlineOfferDocid:15194830321724772072,imageDocid:3184096170292277073,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "psu": {
+        "nom": "be quiet System Power 10 750W",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 68.98,
+        "titre_offre": "be quiet! System Power 10 650W",
+        "site": "Rakuten - Pro_Occasion",
+        "lien": "https://www.google.com/search?ibp=oshop&q=be quiet System Power 10 750W&prds=catalogid:10722749970524641404,productid:5698256890074103783,headlineOfferDocid:18097644626753972887,imageDocid:12418050162592234648,rds:PC_13263212835817159091|PROD_PC_13263212835817159091,gpcid:13263212835817159091,mid:576462728263075199,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "cooler": {
+        "nom": "Noctua NH-U12S LGA1851",
+        "statut": "estimated",
+        "estime": true,
+        "prix_retenu": 87.2,
+        "titre_offre": "Noctua NH-L12 Ghost S1 Ventilateur CPU",
+        "site": "Microless.com",
+        "lien": "https://www.google.com/search?ibp=oshop&q=Noctua NH-U12S LGA1851&prds=catalogid:14444875004504574598,productid:4335047875101103831,headlineOfferDocid:601132706531542435,imageDocid:4599029913225168711,rds:PC_14752887297447263944|PROD_PC_14752887297447263944,gpcid:14752887297447263944,mid:576462569814639771,pvt:hg&hl=fr&gl=fr&udm=28"
+      }
+    },
+    "url": "https://www.ldlc.com/fiche/PB00733836.html",
+    "label": "PC11 Perfect Gen16 (Core Ultra 5 / RTX 5060 / B860)"
+  },
+  {
+    "product_name": "LDLC PC11i AQUA",
+    "product_price": 1189.95,
+    "pc_analysis": {
+      "usage": "gaming / bureau",
+      "tier": "milieu de gamme",
+      "notes": "Le PC LDLC PC11i AQUA est conçu pour une utilisation gaming et bureautique, avec un prix compétitif pour son niveau de performance."
+    },
+    "verdict": {
+      "verdict_label": null,
+      "difference_euros": -106.62,
+      "verdict_sub": "Monter le PC soi-même revient moins cher."
+    },
+    "composants_sans_prix": [],
+    "detail_composants": {
+      "cpu": {
+        "nom": "AMD Ryzen 5 5600X",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 137.99,
+        "titre_offre": "AMD Ryzen 5 5600GT",
+        "site": "Cdiscount",
+        "lien": "https://www.google.com/search?ibp=oshop&q=AMD Ryzen 5 5600X&prds=catalogid:17199455361357238477,productid:15595703361229302971,headlineOfferDocid:17502124011424374233,imageDocid:12620661566765250824,rds:PC_10272920414188453994|PROD_PC_10272920414188453994,gpcid:10272920414188453994,mid:576462807939876199,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "gpu": {
+        "nom": "NVIDIA RTX 5060 16Go",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 489.9,
+        "titre_offre": "Gigabyte GeForce RTX 5060 Ti WINDFORCE MAX OC Carte Graphique Go GDDR7",
+        "site": "instinctgaming.gg",
+        "lien": "https://www.google.com/search?ibp=oshop&q=NVIDIA RTX 5060 16Go&prds=catalogid:16289877149472139084,productid:17880069744603249173,headlineOfferDocid:16205934668314881962,imageDocid:11866229578635639950,rds:PC_1194264011639150404|PROD_PC_1194264011639150404,gpcid:1194264011639150404,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "ram": {
+        "nom": "Corsair Vengeance 16Go DDR4 3200MHz",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 59.9,
+        "titre_offre": "Corsair Vengeance RGB RS Go DDR4 3200 MHz CL16",
+        "site": "instinctgaming.gg",
+        "lien": "https://www.google.com/search?ibp=oshop&q=Corsair Vengeance 16Go DDR4 3200MHz&prds=catalogid:14398726105931321592,productid:16177603746068662753,headlineOfferDocid:18359307569922354658,imageDocid:14750816999351473493,rds:PC_10017182625135615753|PROD_PC_10017182625135615753,gpcid:10017182625135615753,mid:576462883854639783,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "ssd": {
+        "nom": "Samsung 980 1To NVMe",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 78.39,
+        "titre_offre": "Disque SSD interne Samsung M2 NVMe 500 Go 990 PRO 250 Go, disque dur 980 1 To, d",
+        "site": "AliExpress",
+        "lien": "https://www.google.com/search?ibp=oshop&q=Samsung 980 1To NVMe&prds=productid:9315253043259673616,headlineOfferDocid:9315253043259673616,imageDocid:8907028032422685666,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "case": {
+        "nom": "be quiet Pure Base 500",
+        "statut": "estimated",
+        "estime": true,
+        "prix_retenu": 117.3,
+        "titre_offre": "be quiet! Case PURE BASE 500 - Gaming PC Case, Window, White",
+        "site": "TopMarket.co.il",
+        "lien": "https://www.google.com/search?ibp=oshop&q=be quiet Pure Base 500&prds=productid:17084051690106035904,headlineOfferDocid:17084051690106035904,imageDocid:10087801009533512567,rds:PC_10129885854346137865|PROD_PC_10129885854346137865,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "psu": {
+        "nom": "be quiet System Power 10 650W",
+        "statut": "estimated",
+        "estime": true,
+        "prix_retenu": 130.53,
+        "titre_offre": "be quiet! Pure Power 13 M",
+        "site": "LDLC",
+        "lien": "https://www.google.com/search?ibp=oshop&q=be quiet System Power 10 650W&prds=catalogid:2593517498116182665,productid:16821913463402261234,headlineOfferDocid:14331466124230739525,imageDocid:17538958864304580949,rds:PC_3126853303890760979|PROD_PC_3126853303890760979,gpcid:3126853303890760979,mid:576462861545069865,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "motherboard": {
+        "nom": "ASRock B550M Steel Legend Micro ATX",
+        "statut": "estimated",
+        "estime": true,
+        "prix_retenu": 119.79,
+        "titre_offre": "Carte Mère ASRock B550M-HVS SE DDR4 Micro ATX",
+        "site": "AliExpress",
+        "lien": "https://www.google.com/search?ibp=oshop&q=ASRock B550M Steel Legend Micro ATX&prds=catalogid:10278798018502566978,productid:12099538585795614740,headlineOfferDocid:16290122884750920303,imageDocid:3118569300145424572,rds:PC_4197517480071852445|PROD_PC_4197517480071852445,gpcid:4197517480071852445,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "cooler": {
+        "nom": "Arctic Freezer 34 eSports AM4",
+        "statut": "estimated",
+        "estime": true,
+        "prix_retenu": 162.77,
+        "titre_offre": "Arctic Freezer 34 eSports DUO",
+        "site": "achatmoinscher",
+        "lien": "https://www.google.com/search?ibp=oshop&q=Arctic Freezer 34 AM4&prds=catalogid:11772225914756607340,productid:5917191590140150595,headlineOfferDocid:4757072873819720887,imageDocid:611558542581473322,rds:PC_13576775018688025703|PROD_PC_13576775018688025703,gpcid:13576775018688025703,mid:576462777059414801,pvt:hg&hl=fr&gl=fr&udm=28"
+      }
+    },
+    "url": "https://www.ldlc.com/fiche/PB00729248.html",
+    "label": "PC11i AQUA (Ryzen 5 / RTX 5060)"
+  },
+  {
+    "product_name": "LDLC PC11 Zen-M5 X3D Plus Perfect SIX-TI",
+    "product_price": 2159.95,
+    "pc_analysis": {
+      "usage": "gaming / création",
+      "tier": "haut de gamme",
+      "notes": "Le PC est équipé d'un processeur Ryzen 7 et d'une carte graphique RTX 5060 Ti, ce qui suggère une utilisation pour le gaming et la création de contenu."
+    },
+    "verdict": {
+      "verdict_label": "DEAL OF THE LIFE",
+      "difference_euros": 883.62,
+      "verdict_sub": "Économie exceptionnelle de 883.62 € — foncez !"
+    },
+    "composants_sans_prix": [],
+    "detail_composants": {
+      "cpu": {
+        "nom": "AMD Ryzen 7 7700X",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 170.0,
+        "titre_offre": "Ryzen 7 7700X",
+        "site": "Leboncoin",
+        "lien": "https://www.google.com/search?ibp=oshop&q=AMD Ryzen 7 7700X&prds=productid:4011545015724408454,headlineOfferDocid:4011545015724408454,imageDocid:18362201086014807371,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "gpu": {
+        "nom": "NVIDIA RTX 5060 Ti 16Go",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 579.99,
+        "titre_offre": "MSI GeForce RTX 5060 Ti VENTUS 2X OC PLUS",
+        "site": "Fnac.com",
+        "lien": "https://www.google.com/search?ibp=oshop&q=NVIDIA RTX 5060 Ti 16Go&prds=catalogid:1412232991064672715,productid:12210991625428494336,headlineOfferDocid:8722322624723812359,imageDocid:1119642898540818650,rds:PC_204097168797313407|PROD_PC_204097168797313407,gpcid:204097168797313407,mid:576462543582567514,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "ram": {
+        "nom": "Kingston Fury Beast 16Go DDR5 5200MHz",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 208.21,
+        "titre_offre": "DDR5 Kingston FURY Beast Go",
+        "site": "PcComponentes FR",
+        "lien": "https://www.google.com/search?ibp=oshop&q=Kingston Fury Beast 16Go DDR5 5200MHz&prds=catalogid:9466081318618393208,productid:4082713420210672598,headlineOfferDocid:15251586755359623232,imageDocid:7246719910592598830,rds:PC_17776279335597321638|PROD_PC_17776279335597321638,gpcid:17776279335597321638,mid:576462556571920635,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "ssd": {
+        "nom": "Samsung 980 1To NVMe",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 78.39,
+        "titre_offre": "Disque SSD interne Samsung M2 NVMe 500 Go 990 PRO 250 Go, disque dur 980 1 To, d",
+        "site": "AliExpress",
+        "lien": "https://www.google.com/search?ibp=oshop&q=Samsung 980 1To NVMe&prds=productid:9315253043259673616,headlineOfferDocid:9315253043259673616,imageDocid:8907028032422685666,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "motherboard": {
+        "nom": "ASRock B650M Steel Legend Micro ATX",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 98.37,
+        "titre_offre": "Asrock B650M-HDV/M.2",
+        "site": "Cdiscount",
+        "lien": "https://www.google.com/search?ibp=oshop&q=ASRock B650M Steel Legend Micro ATX&prds=catalogid:1079884554969676283,productid:9136017517968060518,headlineOfferDocid:8718881744771282180,imageDocid:5342443792679924347,rds:PC_15079282715456989930|PROD_PC_15079282715456989930,gpcid:15079282715456989930,mid:576462452505779606,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "case": {
+        "nom": "be quiet Pure Base 500",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 40.0,
+        "titre_offre": "Be Quiet Pure Base 500",
+        "site": "Leboncoin",
+        "lien": "https://www.google.com/search?ibp=oshop&q=be quiet Pure Base 500&prds=productid:15194830321724772072,headlineOfferDocid:15194830321724772072,imageDocid:3184096170292277073,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "psu": {
+        "nom": "be quiet System Power 10 650W",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 59.99,
+        "titre_offre": "be quiet! System Power 11",
+        "site": "Cdiscount",
+        "lien": "https://www.google.com/search?ibp=oshop&q=be quiet System Power 10 650W&prds=catalogid:14365971977607505443,productid:13908426821023930691,headlineOfferDocid:8052035380405976694,imageDocid:15855699956589042016,rds:PC_12116759518760455486|PROD_PC_12116759518760455486,gpcid:12116759518760455486,mid:576462517861518134,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "cooler": {
+        "nom": "DeepCool AK400 AM5",
+        "statut": "estimated",
+        "estime": true,
+        "prix_retenu": 41.38,
+        "titre_offre": "DeepCool AK400 CPU Cooler 120mm FDB Fan 1850 RPM Fan Speed 66.47 CFM Fan Airflow",
+        "site": "Microless.com",
+        "lien": "https://www.google.com/search?ibp=oshop&q=DeepCool AK400 AM5&prds=catalogid:14909989902276814794,productid:2327394319235355051,headlineOfferDocid:14753683396529768771,imageDocid:6989844212433449010,rds:PC_1139314249780967952|PROD_PC_1139314249780967952,gpcid:1139314249780967952,mid:576462866243733026,pvt:hg&hl=fr&gl=fr&udm=28"
+      }
+    },
+    "url": "https://www.ldlc.com/fiche/PB00677437.html",
+    "label": "Zen-M5 X3D SIX-TI (Ryzen 7 / RTX 5060 Ti / DDR5)"
+  },
+  {
+    "product_name": "LDLC PC Zen-M5 X3D Top Perfect",
+    "product_price": 3999.95,
+    "pc_analysis": {
+      "usage": "gaming / création",
+      "tier": "haut de gamme",
+      "notes": "Le PC est équipé d'un processeur Ryzen 9 et d'une carte graphique RTX 5080, ce qui suggère une utilisation pour le gaming et la création de contenu. Le prix élevé de 3999,95€ confirme son statut de haut de gamme."
+    },
+    "verdict": {
+      "verdict_label": "DEAL OF THE LIFE",
+      "difference_euros": 1022.13,
+      "verdict_sub": "Économie exceptionnelle de 1022.13 € — foncez !"
+    },
+    "composants_sans_prix": [],
+    "detail_composants": {
+      "cpu": {
+        "nom": "AMD Ryzen 9 9950X",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 482.49,
+        "titre_offre": "Processeur AMD Ryzen 9 9950X",
+        "site": "Cdiscount",
+        "lien": "https://www.google.com/search?ibp=oshop&q=AMD Ryzen 9 9950X&prds=catalogid:9778633677919820213,productid:9756370962300272754,headlineOfferDocid:6426999019909532251,imageDocid:12349610746973950875,rds:PC_16531250299087675312|PROD_PC_16531250299087675312,gpcid:16531250299087675312,mid:576462866561672668,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "gpu": {
+        "nom": "NVIDIA RTX 5080 16Go",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 1324.2,
+        "titre_offre": "Palit GeForce RTX 5080 GamingPro",
+        "site": "achatmoinscher",
+        "lien": "https://www.google.com/search?ibp=oshop&q=NVIDIA RTX 5080 16Go&prds=catalogid:6740935864814806358,productid:11712781306832558726,headlineOfferDocid:15498905358459756555,imageDocid:10125235564453408231,rds:PC_13825741304380409512|PROD_PC_13825741304380409512,gpcid:13825741304380409512,mid:576462849164005624,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "ram": {
+        "nom": "G.Skill Trident Z5 32Go DDR5 6000MHz",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 515.97,
+        "titre_offre": "DDR5 G.Skill Trident Z5 Neo RGB",
+        "site": "Cdiscount",
+        "lien": "https://www.google.com/search?ibp=oshop&q=G.Skill Trident Z5 32Go DDR5 6000MHz&prds=catalogid:15890724549796545797,productid:3956678351214925354,headlineOfferDocid:17839631943891115365,imageDocid:5462335220407095643,rds:PC_3924730074321743870|PROD_PC_3924730074321743870,gpcid:3924730074321743870,mid:576462801687138218,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "ssd": {
+        "nom": "Samsung 980 1To NVMe",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 78.39,
+        "titre_offre": "Disque SSD interne Samsung M2 NVMe 500 Go 990 PRO 250 Go, disque dur 980 1 To, d",
+        "site": "AliExpress",
+        "lien": "https://www.google.com/search?ibp=oshop&q=Samsung 980 1To NVMe&prds=productid:9315253043259673616,headlineOfferDocid:9315253043259673616,imageDocid:8907028032422685666,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "motherboard": {
+        "nom": "ASRock X670E Taichi",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 348.0,
+        "titre_offre": "ASRock AMD X870E Taichi Ryzen Socket AM5 X870 Double canal DDR5 DIMMs 256 Go 820",
+        "site": "Ubuy",
+        "lien": "https://www.google.com/search?ibp=oshop&q=ASRock X670E Taichi&prds=productid:17308946859713969066,headlineOfferDocid:17308946859713969066,imageDocid:7661505148396181931,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "case": {
+        "nom": "be quiet Pure Base 500",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 40.0,
+        "titre_offre": "Be Quiet Pure Base 500",
+        "site": "Leboncoin",
+        "lien": "https://www.google.com/search?ibp=oshop&q=be quiet Pure Base 500&prds=productid:15194830321724772072,headlineOfferDocid:15194830321724772072,imageDocid:3184096170292277073,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "psu": {
+        "nom": "be quiet System Power 10 1000W",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 89.0,
+        "titre_offre": "be quiet! System Power 10",
+        "site": "cybertek.fr",
+        "lien": "https://www.google.com/search?ibp=oshop&q=be quiet System Power 10 1000W&prds=catalogid:4054577373579055696,productid:2982813337430414655,headlineOfferDocid:17445150036163851944,imageDocid:2635377817071723112,rds:PC_2116733862636091643|PROD_PC_2116733862636091643,gpcid:2116733862636091643,mid:576462687278162701,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "ssd2": {
+        "nom": "WD Blue SN570 2To NVMe",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 58.39,
+        "titre_offre": "Disque SSD externe portable We-stern Digital Blue SN570 NVMe M.2 2280 250 Go 500",
+        "site": "AliExpress",
+        "lien": "https://www.google.com/search?ibp=oshop&q=WD Blue SN570 2To NVMe&prds=productid:12196263939394430573,headlineOfferDocid:12196263939394430573,imageDocid:11247711707948875897,rds:PC_6315132075899320701|PROD_PC_6315132075899320701,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "cooler": {
+        "nom": "DeepCool AK400 AM5",
+        "statut": "estimated",
+        "estime": true,
+        "prix_retenu": 41.38,
+        "titre_offre": "DeepCool AK400 CPU Cooler 120mm FDB Fan 1850 RPM Fan Speed 66.47 CFM Fan Airflow",
+        "site": "Microless.com",
+        "lien": "https://www.google.com/search?ibp=oshop&q=DeepCool AK400 AM5&prds=catalogid:14909989902276814794,productid:2327394319235355051,headlineOfferDocid:14753683396529768771,imageDocid:6989844212433449010,rds:PC_1139314249780967952|PROD_PC_1139314249780967952,gpcid:1139314249780967952,mid:576462866243733026,pvt:hg&hl=fr&gl=fr&udm=28"
+      }
+    },
+    "url": "https://www.ldlc.com/fiche/PB00675804.html",
+    "label": "Zen X3D Top (Ryzen 9 / RTX 5080 / double SSD)"
+  },
+  {
+    "product_name": "LDLC PC ART SIX-TI",
+    "product_price": 1249.95,
+    "pc_analysis": {
+      "usage": "gaming / création",
+      "tier": "milieu de gamme",
+      "notes": "Le PC est équipé d'une carte graphique puissante et d'un processeur Ryzen 5, ce qui le destine à des utilisations exigeantes comme le gaming et la création de contenu."
+    },
+    "verdict": {
+      "verdict_label": "BON DEAL",
+      "difference_euros": 8.92,
+      "verdict_sub": "Vous économisez 8.92 € en achetant les pièces séparément."
+    },
+    "composants_sans_prix": [],
+    "detail_composants": {
+      "cpu": {
+        "nom": "AMD Ryzen 5 5600X",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 137.99,
+        "titre_offre": "AMD Ryzen 5 5600GT",
+        "site": "Cdiscount",
+        "lien": "https://www.google.com/search?ibp=oshop&q=AMD Ryzen 5 5600X&prds=catalogid:17199455361357238477,productid:15595703361229302971,headlineOfferDocid:17502124011424374233,imageDocid:12620661566765250824,rds:PC_10272920414188453994|PROD_PC_10272920414188453994,gpcid:10272920414188453994,mid:576462807939876199,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "gpu": {
+        "nom": "NVIDIA GeForce RTX 5060 Ti avec 16 Go de mémoire",
+        "statut": "found",
+        "estime": false,
+        "prix_retenu": 579.99,
+        "titre_offre": "MSI GeForce RTX 5060 Ti VENTUS 2X OC PLUS",
+        "site": "Fnac.com",
+        "lien": "https://www.google.com/search?ibp=oshop&q=NVIDIA GeForce RTX 5060 Ti avec 16 Go de mémoire prix&prds=catalogid:1412232991064672715,productid:12210991625428494336,headlineOfferDocid:8722322624723812359,imageDocid:1119642898540818650,rds:PC_204097168797313407|PROD_PC_204097168797313407,gpcid:204097168797313407,mid:576462543582567514,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "ram": {
+        "nom": "16 Go de mémoire DDR4",
+        "statut": "found",
+        "estime": false,
+        "prix_retenu": 99.99,
+        "titre_offre": "Crucial DDR4",
+        "site": "Cdiscount",
+        "lien": "https://www.google.com/search?ibp=oshop&q=16 Go de mémoire DDR4 prix&prds=catalogid:2631887721617015719,productid:647825942526131636,headlineOfferDocid:9054890397954043726,imageDocid:1502410769969416367,rds:PC_10030309654010607942|PROD_PC_10030309654010607942,gpcid:10030309654010607942,mid:576462842494750699,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "ssd": {
+        "nom": "Samsung 980 1To NVMe",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 78.39,
+        "titre_offre": "Disque SSD interne Samsung M2 NVMe 500 Go 990 PRO 250 Go, disque dur 980 1 To, d",
+        "site": "AliExpress",
+        "lien": "https://www.google.com/search?ibp=oshop&q=Samsung 980 1To NVMe&prds=productid:9315253043259673616,headlineOfferDocid:9315253043259673616,imageDocid:8907028032422685666,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "motherboard": {
+        "nom": "ASRock B550M Steel Legend Micro ATX",
+        "statut": "refined",
+        "estime": false,
+        "prix_retenu": 62.52,
+        "titre_offre": "Asrock B550M-HDV",
+        "site": "reichelt.com",
+        "lien": "https://www.google.com/search?ibp=oshop&q=ASRock B550M Steel Legend Micro ATX&prds=catalogid:11842558241165751256,productid:17628040838229904999,headlineOfferDocid:16924117360925071578,imageDocid:4780885608048547023,rds:PC_5735004269534998719|PROD_PC_5735004269534998719,gpcid:5735004269534998719,mid:576462757740762181,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "case": {
+        "nom": "Zalman i3 Neo V2 Black",
+        "statut": "found",
+        "estime": false,
+        "prix_retenu": 61.09,
+        "titre_offre": "Zalman i3 Edge",
+        "site": "Rue du Commerce Marketplace",
+        "lien": "https://www.google.com/search?ibp=oshop&q=Zalman i3 Neo V2 Black prix&prds=catalogid:7539001945136585136,productid:14338503376002435450,headlineOfferDocid:10532492149148016902,imageDocid:6051209230445817199,rds:PC_7928649534416476017|PROD_PC_7928649534416476017,gpcid:7928649534416476017,mid:576462694343749966,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "psu": {
+        "nom": "be quiet System Power 10 650W",
+        "statut": "estimated",
+        "estime": true,
+        "prix_retenu": 130.53,
+        "titre_offre": "be quiet! Pure Power 13 M",
+        "site": "LDLC",
+        "lien": "https://www.google.com/search?ibp=oshop&q=be quiet System Power 10 650W&prds=catalogid:2593517498116182665,productid:16821913463402261234,headlineOfferDocid:14331466124230739525,imageDocid:17538958864304580949,rds:PC_3126853303890760979|PROD_PC_3126853303890760979,gpcid:3126853303890760979,mid:576462861545069865,pvt:hg&hl=fr&gl=fr&udm=28"
+      },
+      "cooler": {
+        "nom": "Noctua NH-U12S",
+        "statut": "estimated",
+        "estime": true,
+        "prix_retenu": 90.53,
+        "titre_offre": "Noctua NH-U12S",
+        "site": "Darty",
+        "lien": "https://www.google.com/search?ibp=oshop&q=Noctua NH-U12S AM4&prds=catalogid:15180361116435551802,productid:11353627118678689547,headlineOfferDocid:824441999805424995,imageDocid:13855531049894899602,rds:PC_3591798373196325917|PROD_PC_3591798373196325917,gpcid:3591798373196325917,mid:576462684675933981,pvt:hg&hl=fr&gl=fr&udm=28"
+      }
+    },
+    "url": "https://www.ldlc.com/fiche/PB00677382.html",
+    "label": "PC ART SIX-TI (Ryzen 5 / RTX 5060 Ti)"
+  }
+]

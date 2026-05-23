@@ -1,0 +1,162 @@
+[
+  {
+    "url": "https://www.ldlc.com/fiche/PB00691188.html",
+    "product_name": "LDLC PC11i ART",
+    "product_price": 1159.95,
+    "product_image": null,
+    "components": {
+      "cpu": "AMD Ryzen 5 5500 (3.6 GHz / 4.2 GHz)",
+      "gpu": "NVIDIA GeForce RTX 5060 avec 8 Go de mémoire",
+      "ram": "16 Go de mémoire DDR4",
+      "ssd": "SSD M.2 NVMe de 1 To",
+      "motherboard": "A520",
+      "case": "Zalman i3 Neo V2 Black",
+      "cooler": null,
+      "psu": "500W"
+    }
+  },
+  {
+    "url": "https://www.ldlc.com/fiche/PB00684984.html",
+    "product_name": "LDLC PC11 ART",
+    "product_price": 1049.95,
+    "product_image": null,
+    "components": {
+      "cpu": "AMD Ryzen 5 5500 (3.6 GHz / 4.2 GHz)",
+      "gpu": "NVIDIA GeForce RTX 5060 avec 8 Go de mémoire",
+      "ram": "16 Go de mémoire DDR4",
+      "ssd": "SSD M.2 NVMe de 1 To",
+      "motherboard": "A520",
+      "case": "Zalman i3 Neo V2 Black",
+      "cooler": null,
+      "psu": "500W"
+    }
+  },
+  {
+    "url": "https://www.ldlc.com/fiche/PB00677389.html",
+    "product_name": "LDLC PC11 ART SIX-TI",
+    "product_price": 1349.95,
+    "product_image": null,
+    "components": {
+      "cpu": "AMD Ryzen 5 3.6 GHz",
+      "gpu": "NVIDIA GeForce RTX 5060 Ti",
+      "ram": "16 Go DDR4",
+      "ssd": "SSD 1 To",
+      "motherboard": null,
+      "case": "Moyen Tour",
+      "cooler": null,
+      "psu": "650 W"
+    }
+  },
+  {
+    "url": "https://www.ldlc.com/fiche/PB00671360.html",
+    "product_name": "LDLC PC11 ART Seventy",
+    "product_price": 1399.95,
+    "product_image": null,
+    "components": {
+      "cpu": "AMD Ryzen 5 3.6 GHz",
+      "gpu": "NVIDIA GeForce RTX 5070",
+      "ram": "16 Go DDR4",
+      "ssd": "SSD 1 To",
+      "motherboard": null,
+      "case": "Moyen Tour",
+      "cooler": null,
+      "psu": "650 W"
+    }
+  },
+  {
+    "url": "https://www.ldlc.com/fiche/PB00668591.html",
+    "product_name": "LDLC PC11 Zen-M5 X3D Plus Perfect Seven-Ti",
+    "product_price": 2499.95,
+    "product_image": null,
+    "components": {
+      "cpu": "AMD Ryzen 7 4.7 GHz",
+      "gpu": "NVIDIA GeForce RTX 5070 Ti",
+      "ram": "16 Go DDR5",
+      "ssd": "SSD 1 To",
+      "motherboard": "AMD B650",
+      "case": "Moyen Tour",
+      "cooler": null,
+      "psu": "750 W"
+    }
+  },
+  {
+    "url": "https://www.ldlc.com/fiche/PB00677437.html",
+    "product_name": "LDLC PC11 Zen-M5 X3D Plus Perfect SIX-TI",
+    "product_price": 2159.95,
+    "product_image": null,
+    "components": {
+      "cpu": "AMD Ryzen 7 4.7 GHz",
+      "gpu": "NVIDIA GeForce RTX 5060 Ti",
+      "ram": "16 Go DDR5",
+      "ssd": "SSD 1 To",
+      "motherboard": "AMD B650",
+      "case": "Moyen Tour",
+      "cooler": null,
+      "psu": "650 W"
+    }
+  },
+  {
+    "url": "https://www.ldlc.com/fiche/PB00733836.html",
+    "product_name": "LDLC PC11 Perfect Gen16",
+    "product_price": 1679.95,
+    "product_image": null,
+    "components": {
+      "cpu": "Intel Core Ultra 5 5.3 GHz",
+      "gpu": "NVIDIA GeForce RTX 5060",
+      "ram": "16 Go DDR5",
+      "ssd": "SSD 1 To",
+      "motherboard": "Intel B860",
+      "case": "Moyen Tour",
+      "cooler": null,
+      "psu": "750 W"
+    }
+  },
+  {
+    "url": "https://www.ldlc.com/fiche/PB00729248.html",
+    "product_name": "LDLC PC11i AQUA",
+    "product_price": 1189.95,
+    "product_image": null,
+    "components": {
+      "cpu": "AMD Ryzen 5 4.2 GHz",
+      "gpu": "NVIDIA GeForce RTX 5060",
+      "ram": "16 Go DDR4",
+      "ssd": "SSD 1 To",
+      "motherboard": null,
+      "case": "Moyen Tour",
+      "cooler": null,
+      "psu": "500 W"
+    }
+  },
+  {
+    "url": "https://www.ldlc.com/fiche/PB00675804.html",
+    "product_name": "LDLC PC Zen-M5 X3D Top Perfect",
+    "product_price": 3999.95,
+    "product_image": null,
+    "components": {
+      "cpu": "AMD Ryzen 9 5.7 GHz",
+      "gpu": "NVIDIA GeForce RTX 5080",
+      "ram": "32 Go DDR5",
+      "ssd": "SSD 1 To + SDD 2 To",
+      "motherboard": "AMD X870",
+      "case": "Moyen Tour",
+      "cooler": null,
+      "psu": "1000 W"
+    }
+  },
+  {
+    "url": "https://www.ldlc.com/fiche/PB00677382.html",
+    "product_name": "LDLC PC ART SIX-TI",
+    "product_price": 1249.95,
+    "product_image": null,
+    "components": {
+      "cpu": "AMD Ryzen 5 3.6 GHz",
+      "gpu": "NVIDIA GeForce RTX 5060 Ti",
+      "ram": "16 Go DDR4",
+      "ssd": "SSD 1 To",
+      "motherboard": null,
+      "case": "Moyen Tour",
+      "cooler": null,
+      "psu": "650 W"
+    }
+  }
+]
